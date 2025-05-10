@@ -13,8 +13,8 @@ ProteinFitPred integrates both sequence and structural information to predict pr
 The framework follows the architecture described in the paper [insert paper reference if applicable].
 
 ## Repository Structure
-├── make_embeddings.py    # Generate embeddings from protein sequences using ESM-2
-├── cnn.py                # Extract structural features from PDB files
-├── baseline_nn.py        # Simple neural network using only sequence embeddings
-├── combined_nn.py        # Combined model using both sequence and structural embeddings
-└── README.md             # This file
+├── make_embeddings.py    # Generate embeddings from protein sequences using ESM-2 <br>
+├── cnn.py                # Extract structural features from PDB files <br>
+├── baseline_nn.py        # Simple neural network using only sequence embeddings <br>
+├── combined_nn.py        # Combined model using both sequence and structural embeddings <br>
+└── README.md             # This file <br>
